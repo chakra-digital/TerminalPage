@@ -42,6 +42,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  margin: 20px 0;
+}
+
 nav {
   width: 30%;
 }
@@ -67,6 +71,10 @@ nav ul li {
   align-items: center;
 }
 
+.wb-body {
+  background-color: #111;
+  padding: 20px;
+}
 .hidden {
   display: none;
 }
